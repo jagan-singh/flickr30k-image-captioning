@@ -27,11 +27,11 @@ After trying multiple combinations of layers, we found that having more layers i
 ## Evaluation
 To evaluate our models, we used the standard metrics used in image captioning tasks: Sentence bleu and Meteor score which measure the similarity between the generated captions and the human-written captions in the dataset. The following is example of caption and predicted caption with bleu score and Meteor score.
 #### Captions
-two young guys with shaggy hair look at their hands while hanging out in the yard
-two young white males are outside near many bushes
-two men in green shirts are standing in yard
-man in blue shirt standing in garden
-two friends enjoy time spent together
+1. two young guys with shaggy hair look at their hands while hanging out in the yard.
+2. two young white males are outside near many bushes.
+3. two men in green shirts are standing in yard.
+4. man in blue shirt standing in garden.
+5. two friends enjoy time spent together.
 #### Predicted
 man in blue shirt is standing in front of the building
 #### Scores
