@@ -24,7 +24,7 @@ Our best model had 4 layers for text data including one LSTM (Long Short-Term Me
 
 After trying multiple combinations of layers, we found that having more layers in the model does not necessarily means better model. But giving the model more training with more epochs improved the captions accuracy.
 
-##Evaluation
+## Evaluation
 To evaluate our models, we used the standard metrics used in image captioning tasks: Sentence bleu and Meteor score which measure the similarity between the generated captions and the human-written captions in the dataset. The following is example of caption and predicted caption with bleu score and Meteor score.
 #### Captions
 two young guys with shaggy hair look at their hands while hanging out in the yard
