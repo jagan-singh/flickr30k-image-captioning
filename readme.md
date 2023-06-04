@@ -33,10 +33,10 @@ To evaluate our models, we used the standard metrics used in image captioning ta
 4. man in blue shirt standing in garden.
 5. two friends enjoy time spent together.
 #### Predicted
-man in blue shirt is standing in front of the building
+- man in blue shirt is standing in front of the building.
 #### Scores
-Bleu Score: 0.51
-Meteor Score: 0.79
+1. Bleu Score: 0.51
+2. Meteor Score: 0.79
 
 ## Conclusion
 In this project, we explored the task of image captioning using the Flickr30k dataset and a deep learning model based on the Xception architecture for image feature extraction. Our model achieved competitive results on the Flickr30k dataset, outperforming some of the previous state-of-the-art models. Future work could involve exploring different pre-trained models for image feature extraction and using more advanced techniques such as attention mechanisms to improve caption generation.
